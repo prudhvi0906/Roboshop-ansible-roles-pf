@@ -1,0 +1,13 @@
+MONGODB_HOST: mongodb.prudhvi.online
+REDIS_HOST: redis.prudhvi.online
+CATALOGUE_HOST: catalogue.prudhvi.online
+CART_HOST: cart.prudhvi.online
+SHIPPING_HOST: shipping.prudhvi.online
+PAYMENT_HOST: payment.prudhvi.online
+DISPATCH_HOST: dispatch.prudhvi.online
+USER_HOST: user.prudhvi.online
+RABBITMQ_HOST: rabbitmq.prudhvi.online
+MYSQL_HOST: mysql.prudhvi.online
+
+
+
